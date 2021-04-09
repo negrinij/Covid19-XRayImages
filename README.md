@@ -6,7 +6,7 @@ This notebook uses ML to predict positive cases of Covid-19 given X-ray images. 
 - Lung Opacity
 - Normal
 - Viral Pneumonia
-- 
+
 All the images are in Portable Network Graphics (PNG) file format and the resolution are 299x299 pixels. On this current update, the database currently holds 3,616 COVID-19 positive cases, 10,192 Normal, 6,012 Lung Opacity (Non-COVID lung infection), and 1,345 Viral Pneumonia images.
 
 ## Acknowledgments
